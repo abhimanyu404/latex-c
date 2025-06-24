@@ -1,0 +1,20 @@
+ \documentclass[11pt,a4paper]{moderncv}
+\usepackage[scale=0.8]{geometry}
+\moderncvstyle{classic}
+\moderncvcolor{blue}
+\usepackage{graphicx}
+
+\begin{document}
+\name{Sumanta}{Pramanik}
+\email{sumantapamanik2020@gmail.com}
+\phone{+919883637118}
+\address{NH112}{MAKAUT}{India}
+\photo[64pt]{s.jpg}
+\maketitle 
+\section{BSc in Forensic science}
+\cventry{2024--2028}{}{maulana abul kalam azad University}{kolkta}{}{Details...}
+\section{Skills}
+\cvitem{Programming}{Python, R, LaTeX}
+\section{Experiences}
+\cvitem{2024-2028}{TGC}
+\end{document}
